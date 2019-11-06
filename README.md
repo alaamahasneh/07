@@ -18,13 +18,19 @@ An expression evaluates into (results in) a single value. Broadly speaking there
 Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
  1. Arithmetic Operators:
 
- + (addition
- - (subtraction)
- / (division)
- * (multiplication)
- ++ (increment)
- -- (decrement)
- % (modulus)
+ (+) (addition).
+
+ (-) (subtraction).
+
+ (/) (division).
+
+ (*) (multiplication).
+
+ (++) (increment).
+
+ (--) (decrement).
+
+ (%) (modulus).
 
  2.STRING OPERATOR :
 
